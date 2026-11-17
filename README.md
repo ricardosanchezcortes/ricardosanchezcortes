@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**ricardosanchezcortes/ricardosanchezcortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Ricardo Sánchez Cortés 👋
 
-Here are some ideas to get you started:
+### Software Developer | Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Developer with professional experience in C#/.NET, backend development and microservices.
+
+I enjoy building software, solving technical problems and continuously expanding my knowledge.
+
+### 💻 Technologies & Tools
+
+- **Professional experience:** C#, .NET, Microservices
+- **Other technologies:** Java, JavaScript, SQL
+- **Tools:** Git, Bitbucket, Jira, Confluence
+
+### 🌱 Currently Learning
+
+- Amazon Web Services (AWS)
+- Artificial Intelligence and AI development
+- Software architecture and modern development practices
+
+### 🎓 Education
+
+- Higher Vocational Training in Multiplatform Application Development (DAM).
+
+---
+
+# ¡Hola! Soy Ricardo Sánchez Cortés 👋
+
+### Desarrollador de Software | Desarrollo Backend
+
+Soy desarrollador de software con experiencia profesional en C#/.NET, desarrollo backend y microservicios.
+
+Me gusta desarrollar aplicaciones, resolver problemas técnicos y ampliar continuamente mis conocimientos.
+
+### 💻 Tecnologías y herramientas
+
+- **Experiencia profesional:** C#, .NET, Microservicios
+- **Otras tecnologías:** Java, JavaScript, SQL
+- **Herramientas:** Git, Bitbucket, Jira, Confluence
+
+### 🌱 Actualmente aprendiendo
+
+- Amazon Web Services (AWS)
+- Inteligencia artificial y desarrollo de soluciones con IA
+- Arquitectura de software y buenas prácticas de desarrollo
+
+### 🎓 Formación
+
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
