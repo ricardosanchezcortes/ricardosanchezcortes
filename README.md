@@ -9,9 +9,15 @@ I enjoy building software, solving technical problems and continuously expanding
 
 ### 💻 Technologies & Tools
 
-- **Professional experience:** C#, .NET, Microservices
-- **Other technologies:** Java, JavaScript, SQL
-- **Tools:** Git, Bitbucket, Jira, Confluence
+**Main technologies**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+**Tools:** Git, Bitbucket, Jira, Confluence
 
 ### 🌱 Currently Learning
 
@@ -35,9 +41,9 @@ Me gusta desarrollar aplicaciones, resolver problemas técnicos y ampliar contin
 
 ### 💻 Tecnologías y herramientas
 
-- **Experiencia profesional:** C#, .NET, Microservicios
-- **Otras tecnologías:** Java, JavaScript, SQL
-- **Herramientas:** Git, Bitbucket, Jira, Confluence
+**Principales tecnologías:** C#, .NET, Java, JavaScript y SQL.
+
+**Herramientas:** Git, Bitbucket, Jira, Confluence
 
 ### 🌱 Actualmente aprendiendo
 
